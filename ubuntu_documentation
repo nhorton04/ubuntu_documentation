@@ -1,0 +1,230 @@
+<html><head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta name="robots" content="index,nofollow">
+
+<title>DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide - Ubuntu Wiki</title>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/moin_static198/common/js/common.js"></script>
+
+<script type="text/javascript">
+<!--
+var search_hint = "Search";
+//-->
+</script>
+
+
+<link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/moin_static198/light/css/common.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="screen" href="/moin_static198/light/css/screen.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="print" href="/moin_static198/light/css/print.css">
+<link rel="stylesheet" type="text/css" charset="utf-8" media="projection" href="/moin_static198/light/css/projection.css">
+
+<!-- css only for MS IE6/IE7 browsers -->
+<!--[if lt IE 8]>
+   <link rel="stylesheet" type="text/css" charset="utf-8" media="all" href="/moin_static198/light/css/msie.css">
+<![endif]-->
+
+
+<link rel="alternate" title="Ubuntu Wiki: DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide" href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide?diffs=1&amp;show_att=1&amp;action=rss_rc&amp;unique=0&amp;page=DocumentationTeam%2FSystemDocumentation%2FUbuntuDesktopGuide&amp;ddiffs=1" type="application/rss+xml">
+
+
+<link rel="Start" href="/Home">
+<link rel="Alternate" title="Wiki Markup" href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide?action=raw">
+<link rel="Alternate" media="print" title="Print View" href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide?action=print">
+<link rel="Up" href="/DocumentationTeam/SystemDocumentation">
+<link rel="Search" href="/FindPage">
+<link rel="Index" href="/TitleIndex">
+<link rel="Glossary" href="/WordIndex">
+<link rel="Help" href="/HelpOnFormatting">
+</head>
+
+<body lang="en" dir="ltr" class="vsc-initialized">
+
+<!-- BEGIN HEADER -->
+<div id="wrapper" class="hfeed">
+<div id="header">
+    <ul id="mothership">
+        <li> <a href="http://www.ubuntu.com/partners">Partners</a> </li>
+        <li> <a href="http://www.ubuntu.com/support">Support</a> </li>
+        <li> <a href="http://www.ubuntu.com/community">Community</a> </li>
+        <li> <a href="http://www.ubuntu.com">Ubuntu.com</a> </li>
+    </ul>
+
+    <div id="orangeHeader">
+        <h1> <a href="/" title="Ubuntu Wiki"><span>Ubuntu Wiki</span></a> </h1>
+            <div id="search-box">
+
+<form id="searchform" method="get" action="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide">
+<div>
+<input type="hidden" name="action" value="fullsearch">
+<input type="hidden" name="context" value="180">
+<label for="searchinput" style="display: none;">Search:</label>
+<input id="searchinput" type="text" name="value" value="" size="20" onfocus="searchFocus(this)" onblur="searchBlur(this)" onkeyup="searchChange(this)" onchange="searchChange(this)" alt="Search" class="disabled">
+<input id="titlesearch" name="titlesearch" type="submit" value="Titles" alt="Search Titles" disabled="">
+<input id="fullsearch" name="fullsearch" type="submit" value="Text" alt="Search Full Text" disabled="">
+</div>
+</form>
+<script type="text/javascript">
+<!--// Initialize search form
+var f = document.getElementById('searchform');
+f.getElementsByTagName('label')[0].style.display = 'none';
+var e = document.getElementById('searchinput');
+searchChange(e);
+searchBlur(e);
+//-->
+</script>
+
+
+            </div>
+    </div>
+
+</div>
+    <div id="wikinav">
+<ul class="editbar"><li><span class="disabled">Immutable Page</span></li><li><a class="nbinfo" href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide?action=info" rel="nofollow">Info</a></li><li><a class="nbattachments" href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide?action=AttachFile" rel="nofollow">Attachments</a></li><li>
+<form class="actionsmenu" method="GET" action="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide">
+<div>
+
+    <select name="action" onchange="if ((this.selectedIndex != 0) &amp;&amp;
+                      (this.options[this.selectedIndex].disabled == false)) {
+                this.form.submit();
+            }
+            this.selectedIndex = 0;">
+        <option value="show">More Actions:</option><option value="raw">Raw Text</option>
+<option value="print">Print View</option>
+<option value="RenderAsDocbook">Render as Docbook</option>
+<option value="refresh">Delete Cache</option>
+<option value="show" disabled="" class="disabled">------------------------</option>
+<option value="SpellCheck">Check Spelling</option>
+<option value="LikePages">Like Pages</option>
+<option value="LocalSiteMap">Local Site Map</option>
+<option value="show" disabled="" class="disabled">------------------------</option>
+<option value="RenamePage" disabled="" class="disabled">Rename Page</option>
+<option value="CopyPage">Copy Page</option>
+<option value="DeletePage" disabled="" class="disabled">Delete Page</option>
+<option value="show" disabled="" class="disabled">------------------------</option>
+<option value="show" disabled="" class="disabled">Subscribe User</option>
+<option value="show" disabled="" class="disabled">------------------------</option>
+<option value="show" disabled="" class="disabled">Remove Spam</option>
+<option value="show" disabled="" class="disabled">Revert to this revision</option>
+<option value="PackagePages">Package Pages</option>
+<option value="SyncPages">Sync Pages</option>
+<option value="show" disabled="" class="disabled">------------------------</option>
+<option value="Load">Load</option>
+<option value="Save">Save</option>
+<option value="SlideShow">SlideShow</option>
+    </select>
+
+
+</div>
+<script type="text/javascript">
+<!--// Init menu
+actionsMenuInit('More Actions:');
+//-->
+</script>
+</form>
+</li></ul>
+
+<ul id="username">
+<li><a href="/Home">Ubuntu Wiki</a></li>
+<li><a href="?action=login">Login</a></li>
+<li><a href="/HelpContents">Help</a></li>
+</ul>
+
+        <hr class="clearBoth">
+    </div>
+
+	<div id="main">
+		<div id="container">
+			<div id="content">
+		<h2 class="entry-title">
+<span><a href="/DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide">UbuntuDesktopGuide</a></span>
+</h2>
+	<div class="hentry post">
+
+
+<div id="page" lang="en" dir="ltr">
+
+<!-- END HEADER --><div dir="ltr" id="content" lang="en"><span class="anchor" id="top"></span>
+<span class="anchor" id="line-1"></span><p class="line867"> <span class="anchor" id="line-2"></span><span class="anchor" id="line-3"></span></p><p class="line867">
+</p><h2 id="Ubuntu_Documentation_-_Desktop_Getting_Started">Ubuntu Documentation - Desktop Getting Started</h2>
+<span class="anchor" id="line-4"></span><span class="anchor" id="line-5"></span><div><table style="float:right;  font-size:0.9em;  width:42%;  background:#F1F1ED;  margin: 0 0 1em 1em;"><tbody><tr>  <td style="padding:0.5em;"><p class="line891"></p><div class="table-of-contents"><p class="table-of-contents-heading">Contents</p><ol><li>
+<a href="#Ubuntu_Documentation_-_Desktop_Getting_Started">Ubuntu Documentation - Desktop Getting Started</a></li><li>
+<a href="#Introduction">Introduction</a></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Tools_for_Ubuntu_Documentation_Work_Flow">Tools for Ubuntu Documentation Work Flow</a><ol><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Create_your_SSH_key">Create your SSH key</a></li></ol></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Get_set_up_to_work_with_Launchpad">Get set up to work with Launchpad</a><ol><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Get_a_Launchpad_account">Get a Launchpad account</a></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad">Upload your SSH key to Launchpad</a></li></ol></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Configure_Bazaar">Configure Bazaar</a></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Bazaar_Explorer">Bazaar Explorer</a></li><li>
+<a href="#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Additional_information">Additional information</a><ol><li>
+<a href="#Getting_a_copy_of_the_documentation_development_branch">Getting a copy of the documentation development branch</a></li><li>
+<a href="#Building_html_version_of_the_docs">Building html version of the docs</a></li><li>
+<a href="#Changing_the_help">Changing the help</a></li></ol></li><li>
+<a href="#Creating_Personal_Sandbox_Branch">Creating Personal Sandbox Branch</a></li><li>
+<a href="#What.27s_next">What's next</a></li><li>
+<a href="#Discussion">Discussion</a></li></ol></div></td>
+</tr>
+</tbody></table></div><span class="anchor" id="line-6"></span><span class="anchor" id="line-7"></span><p class="line867">
+</p><h2 id="Introduction">Introduction</h2>
+<span class="anchor" id="line-8"></span><span class="anchor" id="line-9"></span><p class="line874">Ubuntu is all about community collaboration and the work we do together to produce a reliable world-class operating system. The same standards that apply to contributing to Ubuntu generally apply to contributing to Ubuntu Documentation. <span class="anchor" id="line-10"></span><span class="anchor" id="line-11"></span></p><p class="line874">Ubuntu Documentation is maintained by the Ubuntu Documentation Contributors Team with commit rights and administration by the Documentation Committers team and this page describes how you can start the journey of contributing to Ubuntu Documentation. <span class="anchor" id="line-12"></span><span class="anchor" id="line-13"></span></p><p class="line867"></p><div dir="ltr" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.content" lang="en"><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.top"></span>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1"></span><p class="line867">
+</p><h2 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Tools_for_Ubuntu_Documentation_Work_Flow">Tools for Ubuntu Documentation Work Flow</h2>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-2"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-3"></span><p class="line874">To be able to contribute to Ubuntu Documentation some tools will be required. So we will start by installing the following: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-4"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-5"></span></p><p class="line867"><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-6"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-7"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1"></span>sudo apt install bzr xsltproc libxml2-utils yelp-tools yelp-xsl make</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-8"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-9"></span><p class="line874">The command will install the following software (and possibly many additional dependent packages): <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-10"></span></p><ul><li>bzr – distributed version control. Bazaar, a new way of working with packages for Ubuntu that will make it easy for many developers to collaborate and work on the same code while keeping it trivial to merge each other’s work. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-11"></span></li><li>xsltproc - XSLT command line processor. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-12"></span></li><li>libxml2-utils - XML utilities. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-13"></span></li><li>yelp-tools - Yelp documentation tools. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-14"></span></li><li>yelp-xsl - XSL stylesheets for the yelp help browser. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-15"></span></li><li>make - a utility for Directing compilation. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-16"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-17"></span></li></ul><p class="line874">Since 17.10 the Desktop documentation mostly uses the gnome docs, directly from their related packages. Therefore a full multi-language build of the html is typically done on a desktop computer with all languages installed: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-18"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-19"></span></p><p class="line867"><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-20"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-21"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1-1"></span>sudo apt install gnome-user-docs* gnome-getting-started-docs*</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-22"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-23"></span><p class="line874">Xubuntu and the Serverguide use Docbook, and therefore require additional packages: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-24"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-25"></span></p><p class="line867"><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-26"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-27"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1-2"></span>sudo apt install docbook docbook-xsl</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-28"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-29"></span><ul><li>docbook - standard SGML representation system for technical documents <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-30"></span></li><li><p class="line862">docbook-xsl - stylesheets for processing DocBook XML to various output formats <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-31"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-32"></span></p></li></ul><p class="line874">Additionally only the serverguide project requires another couple of packages: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-33"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-34"></span></p><p class="line867"><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-35"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-36"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1-3"></span>sudo apt install fop gnome-doc-utils</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-37"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-38"></span><ul><li>fop - XML formatter driven by XSL Formatting Objects <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-39"></span></li><li>gnome-doc-utils - collection of documentation utilities for the GNOME project <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-40"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-41"></span></li></ul><p class="line867">
+</p><h3 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Create_your_SSH_key">Create your SSH key</h3>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-42"></span><p class="line874">SSH stands for Secure Shell, and it is a protocol that allows you to exchange data in a secure way over a network. It is common to use SSH to access and open a shell on another computer, and to use it to securely transfer files. For our purposes, we will mainly be using SSH to securely upload source packages to Launchpad. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-43"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-44"></span></p><p class="line867"><strong>No previous SSH key</strong><br>
+ <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-45"></span>To generate an SSH key, enter: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-46"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-47"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-48"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1-4"></span>ssh-keygen -t rsa</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-49"></span><p class="line862">Accept the default file name <tt>id_rsa</tt>. For security purposes, it is highly recommended that you use a pass-phrase. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-50"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-51"></span></p><p class="line867"><strong>SSH key generated previously</strong><br>
+ <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-52"></span>If you already have an <tt>id_rsa</tt> SSH key that you use for some other purpose but accessing Launchpad, there are two options: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-53"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-54"></span></p><ol type="1"><li><p class="line862">Don't generate another key, but copy the public key from the already existing <tt>id_rsa.pub</tt> when asked to upload your key to Launchpad. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-55"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-56"></span></p></li><li class="gap"><p class="line891"><a class="https" href="https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair#Using_a_custom_SSH_key_for_Launchpad">Generate a custom SSH key for Launchpad</a>. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-57"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-58"></span></p></li></ol><p class="line867">
+</p><h2 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Get_set_up_to_work_with_Launchpad">Get set up to work with Launchpad</h2>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-59"></span><p class="line874">Launchpad is a system used to keep track of many aspects of open-source development. It's features include code hosting, bug tracking, translation, feature blueprints and a community-based answer tracker.<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-60"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-61"></span></p><h3 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Get_a_Launchpad_account">Get a Launchpad account</h3>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-64"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-65"></span><p class="line874">The following steps will guide you through creating a Launchpad account: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-66"></span></p><ul><li><p class="line862">Visit the <a class="https" href="https://login.launchpad.net">Login/Register Page</a>. Enter your email and select "I am a new Ubuntu One user". </p>  <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-67"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-68"></span><p></p></li><li class="gap">After registering, click on the confirmation link sent to your email.<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-73"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-74"></span></li></ul><p class="line874">It is encouraged for you to use your real name here so that your Ubuntu developer colleagues will be able to get to know you better. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-75"></span>You are now ready to contribute to Ubuntu through Launchpad! <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-76"></span>
+</p><h3 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad">Upload your SSH key to Launchpad</h3>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-77"></span><p class="line862">Open <a class="https" href="https://launchpad.net/~/+editsshkeys">https://launchpad.net/~/+editsshkeys</a> in a web browser, and open ~/.ssh/id_rsa.pub in a text editor. This is the public part of your SSH key, so it is safe to share it with Launchpad. Copy the contents of the file and paste them into the text box on the web page that says “Add an SSH key”. Now click “Import Public Key”. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-78"></span>For more information on this process, visit the <a class="https" href="https://help.launchpad.net/YourAccount/CreatingAnSSHKeyPair">creating an SSH keypair</a> page on Launchpad. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-79"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-80"></span></p><p class="line867">
+</p><h2 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Configure_Bazaar">Configure Bazaar</h2>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-81"></span><p class="line862">Bazaar is the tool we use to store code changes in a logical way, to exchange proposed changes and merge them, even if development is done concurrently. It is used for the new Ubuntu Distributed Development method of working with Ubuntu packages. Use <tt>bzr&nbsp;whoami</tt> and <tt>bzr&nbsp;launchpad-login</tt> to tell Bazaar who you are. For example: <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-82"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-83"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-84"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-85"></span></p><pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-1-5"></span>bzr whoami "Bob Dobbs &lt;subgenius@example.com&gt;"
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-2"></span>bzr launchpad-login subgenius</pre><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-86"></span><p class="line867"><tt>bzr&nbsp;whoami</tt> will tell Bazaar which name and email address it should use for your commit messages. With <tt>bzr&nbsp;launchpad-login</tt> you set your Launchpad ID. This way code that you publish in Launchpad will be associated with you. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-87"></span>Note: If you can not remember the ID, go to <a class="https" href="https://launchpad.net/~">https://launchpad.net/~</a> and see where it redirects you. The part after the “~” in the URL is your Launchpad ID. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-88"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-89"></span></p><p class="line867">
+</p>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-90"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-95"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-96"></span><p class="line867">
+</p><h2 id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Additional_information">Additional information</h2>
+<span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-97"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-98"></span><p class="line862">See the <a class="http" href="http://wiki.bazaar.canonical.com/Documentation">Bazaar Documentation website</a> for comprehensive documentation. There is also a useful <a class="http" href="http://doc.bazaar.canonical.com/bzr.dev/en/mini-tutorial/index.html">quick-start guide</a>. If you prefer using a graphical user interface instead of the command line, there are programs such as <a class="http" href="http://doc.bazaar.canonical.com/explorer/en/">Bazaar Explorer</a> that you may find useful. <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-91"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-92"></span></p> <span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.line-99"></span><span class="anchor" id="DocumentationTeam.2FSystemDocumentation.2FBzrCommon.bottom"></span><p></p></div> <span class="anchor" id="line-14"></span><span class="anchor" id="line-15"></span><p class="line867">
+</p><h3 id="Getting_a_copy_of_the_documentation_development_branch">Getting a copy of the documentation development branch</h3>
+<span class="anchor" id="line-16"></span><span class="anchor" id="line-17"></span><p class="line874">The first step you will want to take to begin working on Ubuntu Documentation is to download a copy of the development branch of Ubuntu Documentation using Bazaar: <span class="anchor" id="line-18"></span><span class="anchor" id="line-19"></span></p><p class="line867"><span class="anchor" id="line-20"></span><span class="anchor" id="line-21"></span></p><pre><span class="anchor" id="line-1"></span>bzr branch lp:ubuntu-docs</pre><span class="anchor" id="line-22"></span><span class="anchor" id="line-23"></span><p class="line874">Now that you have a local copy of Ubuntu Documentation you will want to become familiar with the anatomy of the Ubuntu Documentation branch. Mallard files will always be found in the path  <span class="anchor" id="line-24"></span><span class="anchor" id="line-25"></span><span class="anchor" id="line-26"></span></p><pre><span class="anchor" id="line-1-1"></span>~/ubuntu-docs/ubuntu-help/C.</pre><span class="anchor" id="line-27"></span><span class="anchor" id="line-28"></span><p class="line867">
+</p><h3 id="Building_html_version_of_the_docs">Building html version of the docs</h3>
+<span class="anchor" id="line-29"></span><span class="anchor" id="line-30"></span><p class="line874">If you wish to just build the documentation as html to review them, follow these steps with your checked out branch: <span class="anchor" id="line-31"></span><span class="anchor" id="line-32"></span></p><p class="line867"><span class="anchor" id="line-33"></span><span class="anchor" id="line-34"></span><span class="anchor" id="line-35"></span></p><pre><span class="anchor" id="line-1-2"></span>cd ubuntu-docs/html/
+<span class="anchor" id="line-2"></span>make</pre><span class="anchor" id="line-36"></span><span class="anchor" id="line-37"></span><p class="line862">The resulting documentation will end up in ~/ubuntu-docs/html/build/en/ which you can view in your web browser. More information on <a class="https" href="https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/BuildingDocumentation">building the docs</a>. <span class="anchor" id="line-38"></span><span class="anchor" id="line-39"></span></p><p class="line867">
+</p><h3 id="Changing_the_help">Changing the help</h3>
+<span class="anchor" id="line-40"></span><span class="anchor" id="line-41"></span><p class="line874">Changing the help is sometimes as simple as opening the Mallard files in a command-line based text editor and reviewing them for minor changes like updating version numbers to the upcoming release number or checking for spelling and grammar. In other cases for topic-oriented pages, it may be necessary to ensure that features have not significantly changed and if they have then to update the documentation accordingly to reflect those changes. <span class="anchor" id="line-42"></span><span class="anchor" id="line-43"></span></p><p class="line874">The process of changing the help is typically as follows: <span class="anchor" id="line-44"></span><span class="anchor" id="line-45"></span></p><ul><li>Check your copy of the development branch is up-to-date using bzr pull. <span class="anchor" id="line-46"></span></li><li>Change the help files. <span class="anchor" id="line-47"></span></li><li>Check that the help files validate as proper Mallard markup code. <span class="anchor" id="line-48"></span></li><li>When you're happy with your changes and you're ready to create a new revision, again check your copy of the development branch is up-to-date using bzr pull. <span class="anchor" id="line-49"></span></li><li><p class="line862">If you don't want to keep your last revision, you can cancel it using bzr uncommit. In this case if you upload a new revision to an existing personal branch you must use bzr push with the <tt>--overwrite</tt> option. <span class="anchor" id="line-50"></span></p></li><li>Create a new revision using bzr commit. <span class="anchor" id="line-51"></span></li><li>Upload your revision to a personal branch on Launchpad using bzr push. <span class="anchor" id="line-52"></span></li><li>Propose a merge of your revision into the development branch. <span class="anchor" id="line-53"></span></li><li>Once approved your revision will be merged into the development branch. <span class="anchor" id="line-54"></span><span class="anchor" id="line-55"></span></li></ul><p class="line874">The rest of this section gives more details of validation, bzr commit, bzr push and the merge proposal. <span class="anchor" id="line-56"></span><span class="anchor" id="line-57"></span></p><p class="line862">To check if the Mallard synax is ok, you should make sure that the current directory is <tt>ubuntu-help/C</tt> and run this command: <span class="anchor" id="line-58"></span><span class="anchor" id="line-59"></span></p><p class="line867"><span class="anchor" id="line-60"></span><span class="anchor" id="line-61"></span></p><pre><span class="anchor" id="line-1-3"></span>./validate.sh</pre><span class="anchor" id="line-62"></span><span class="anchor" id="line-63"></span><p class="line862">As regards the <tt>bzr</tt> commands below, the current directory should be the branch root. <span class="anchor" id="line-64"></span><span class="anchor" id="line-65"></span></p><p class="line874">The bzr commit command might be as follows: <span class="anchor" id="line-66"></span><span class="anchor" id="line-67"></span></p><p class="line867"><span class="anchor" id="line-68"></span><span class="anchor" id="line-69"></span></p><pre><span class="anchor" id="line-1-4"></span>bzr commit -m 'Brief one sentence summary of change goes here'</pre><span class="anchor" id="line-70"></span><span class="anchor" id="line-71"></span><p class="line874">or if there is a related launchpad bug: <span class="anchor" id="line-72"></span><span class="anchor" id="line-73"></span></p><p class="line867"><span class="anchor" id="line-74"></span><span class="anchor" id="line-75"></span></p><pre><span class="anchor" id="line-1-5"></span>bzr commit --fixes lp:123456 -m 'Brief one sentence summary of change goes here; LP: #123456'</pre><span class="anchor" id="line-76"></span><span class="anchor" id="line-77"></span><p class="line874">or if there are multiple related launchpad bugs: <span class="anchor" id="line-78"></span><span class="anchor" id="line-79"></span></p><p class="line867"><span class="anchor" id="line-80"></span><span class="anchor" id="line-81"></span></p><pre><span class="anchor" id="line-1-6"></span>bzr commit --fixes lp:123456 --fixes lp:123457 --fixes lp:123458 -m 'Brief one sentence summary of changes goes here; LP: #123456 LP: #123457 LP: #123458'</pre><span class="anchor" id="line-82"></span><span class="anchor" id="line-83"></span><p class="line874">The bzr push command is as follows: <span class="anchor" id="line-84"></span><span class="anchor" id="line-85"></span></p><p class="line867"><span class="anchor" id="line-86"></span><span class="anchor" id="line-87"></span></p><pre><span class="anchor" id="line-1-7"></span>bzr push lp:~&lt;username&gt;/ubuntu-docs/&lt;revision-name&gt;</pre><span class="anchor" id="line-88"></span><span class="anchor" id="line-89"></span><p class="line874">You propose your changes for merging by going to the Code section of your Launchpad account, selecting the appropriate personal branch, and submitting a merge proposal ("Propose for merging"), or by running: <span class="anchor" id="line-90"></span><span class="anchor" id="line-91"></span></p><p class="line867"><span class="anchor" id="line-92"></span><span class="anchor" id="line-93"></span></p><pre><span class="anchor" id="line-1-8"></span>bzr lp-propose</pre><span class="anchor" id="line-94"></span><span class="anchor" id="line-95"></span><p class="line874">(This command will open your default web browser and, if you have granted Bazaar permission to interact with Launchpad, it will submit a merge proposal.) <span class="anchor" id="line-96"></span><span class="anchor" id="line-97"></span></p><p class="line867">
+</p><h2 id="Creating_Personal_Sandbox_Branch">Creating Personal Sandbox Branch</h2>
+<span class="anchor" id="line-98"></span><span class="anchor" id="line-99"></span><p class="line874">If you log in to Launchpad and click the Code link at the top of the <span class="anchor" id="line-100"></span>page, it will give you a bzr push command you can use to upload your <span class="anchor" id="line-101"></span>sandbox work. Change BRANCHNAME in that command to whatever you want <span class="anchor" id="line-102"></span>to call the sandbox you'd like to upload. <span class="anchor" id="line-103"></span><span class="anchor" id="line-104"></span></p><p class="line874">Since uploading to your own repo is standard practice for folks who <span class="anchor" id="line-105"></span>aren't part of the core committers team, under "Submit your changes <span class="anchor" id="line-106"></span>for review" there can be a note after `bzr push' saying that this can <span class="anchor" id="line-107"></span>be used for simply "saving" your work in your own branch prior to <span class="anchor" id="line-108"></span>merging as well. <span class="anchor" id="line-109"></span><span class="anchor" id="line-110"></span></p><p class="line867">
+</p><h2 id="What.27s_next">What's next</h2>
+<span class="anchor" id="line-111"></span><span class="anchor" id="line-112"></span><p class="line862">This documentation is intended to be introductory but you can learn much more about Mallard through their own tutorials. You can always ask for help on Ubuntu Documentation Team’s mailing list or on <tt class="backtick">#ubuntu-doc</tt> on Freenode IRC. <span class="anchor" id="line-113"></span><span class="anchor" id="line-114"></span></p><p class="line874">We look forward to seeing your contributions to Ubuntu Documentation and answering any questions that you may have. <span class="anchor" id="line-115"></span><span class="anchor" id="line-116"></span></p><p class="line867">
+</p><h2 id="Discussion">Discussion</h2>
+<span class="anchor" id="line-117"></span><span class="anchor" id="line-118"></span><p class="line867"><strong>NOTES</strong> <br>
+ <span class="anchor" id="line-119"></span>I think that there is too much information, to the point where it gets confusing for the user reading it. To solve this, you could 1) Split the information into new, separate pages. 2) Remove some information that is not that useful - for example in the 'Get a Launchpad account' there is a lot of info which could be reduced to just the launchpad link together with a brief sentence to go with it, as in my opinion creating a launchpad account is pretty straightforward. By doing this in some sections, you could greatly lower the amount of info, which would allow the user to understand the guide better. <span class="anchor" id="line-120"></span><span class="anchor" id="bottom"></span></p></div> <!-- BEGIN FOOTER -->
+<div id="pagebottom"></div>
+</div>
+
+
+        <div class="entry-utility">
+            <span class="cat-links">
+<p id="pageinfo" class="info" lang="en" dir="ltr">DocumentationTeam/SystemDocumentation/UbuntuDesktopGuide  (last edited 2017-01-18 10:29:32 by <span title="clissold345 @ localhost[127.0.0.1]"><a class="interwiki" href="https://launchpad.net/~clissold345" title="clissold345 @ localhost[127.0.0.1]">clissold345</a></span>)</p>
+
+</span>
+        </div>
+    </div><!-- .post -->
+
+            </div><!-- #content -->
+        </div><!-- #container -->
+        <div class="clearBoth"></div>
+    </div><!-- #main -->
+</div><!-- #wrapper .hfeed -->
+
+<div id="footer">
+    <div id="siteinfo">
+        <p> The material on this wiki is available under a free license, see
+	<a href="https://help.ubuntu.com/community/License">Copyright / License</a> for details.
+        </p>
+    </div><!-- #siteinfo -->
+</div><!-- #footer  -->
+<script> (function(i,s,o,g,r,a,m){ i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-1018242-7', 'auto'); ga('send', 'pageview'); </script>
+
+
+</body></html>
