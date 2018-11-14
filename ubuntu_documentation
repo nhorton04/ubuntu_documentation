@@ -220,7 +220,7 @@ actionsMenuInit('More Actions:');
 <div id="footer">
     <div id="siteinfo">
         <p> The material on this wiki is available under a free license, see
-	<a href="https://help.ubuntu.com/community/License">Copyright / License</a> for details.
+	<a href="https://help.ubuntu.com/community/License">Copyright / License </a>for details.
         </p>
     </div><!-- #siteinfo -->
 </div><!-- #footer  -->
